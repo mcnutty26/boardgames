@@ -13,6 +13,7 @@ Trading forms the core of the experience, and I think that the feeling that peop
 
 The problem is then, that bartering takes up a lot of the average monopoly game, and that because money slowly begets more money, players end up losing hours before they've actually lost. The things that make monopoly good are also the things that make it uplayable.
 In my opinion, the best games are those that are monotonic (the game always either advances towards an ending condition, or remains in the same state) and have decisions made by players take increasing significance as the games progresses.
+Finally, player elimination in a long game is rarely a good thing. 
 
 ## Property
 * Only three houses, instead of the usual four, are required on a property before a hotel can be built
@@ -38,3 +39,5 @@ In my opinion, the best games are those that are monotonic (the game always eith
 
 ## Winning the game
 * A player wins the game if at any point they control four complete sets of properties (including utilities and stations)
+* If a player is eliminated, the remaining player with the most money wins the game
+* If there is a tie when determining the winner, play continues until the tie is broken (sudden death)
