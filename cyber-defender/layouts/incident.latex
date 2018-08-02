@@ -1,7 +1,0 @@
-\documentclass{article}
-\usepackage{graphicx}
-\graphicspath{~/Documents/cyer-defender/assets/images/cards}
-
-\begin{document}
-\includegraphics{placeholder}
-\end{document}
